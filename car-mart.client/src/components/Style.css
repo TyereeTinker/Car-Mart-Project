@@ -1,0 +1,12 @@
+.Entry{
+    width: 50%;
+    height: fit-content;
+    border: 2px solid black;
+    margin: auto;
+    padding: 1%;
+    border-radius: 5px;
+}
+
+.inp{
+    margin: 3px;
+}
